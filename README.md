@@ -1,5 +1,5 @@
-# OllamaSpring
-OllamaSpring is a comprehensive macOS client for managing the various models offered by the Ollama community (now with support for Groq API services), and for creating conversational AI experiences. This is an open-source and free software project, and we welcome users and developers to participate.
+# Taify (formerly OllamaSpring)
+Taify is a comprehensive macOS client for managing the various models offered by the Ollama community (now with support for Groq API services), and for creating conversational AI experiences. This is an open-source and free software project, and we welcome users and developers to participate.
 
 - Supports Open Router
 - Supports Ollama Cloud
@@ -18,7 +18,7 @@ OllamaSpring is a comprehensive macOS client for managing the various models off
 - Groq Fast API Support
 - HTTP Proxy Configuration
 
-Visit our website: https://www.ollamaspring.com ( or [Taify](https://taify.ollamaspring.com) for App Store Sandbox version )
+Visit our website: https://llm.taifystudio.com
 
 <img width="700" alt="ollamaSpring-main jpg" src="https://github.com/CrazyNeil/OllamaSpring/assets/5747549/cd9e01e7-70d4-47c0-a879-55d02f5f1dc2">
 
